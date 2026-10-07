@@ -1,0 +1,15 @@
+{
+  "version": "4.2",
+  "date": "2026-10-07",
+  "notes": "Auto-Update System, PC-Transfer-Assistent, Backup-Modul, Cloud-Sync",
+  "download_url": "https://github.com/gdl-app/gdl-seelsorge/releases/latest/download/GDL-App-Windows.zip",
+  "min_version": "1.0",
+  "changelog": [
+    "Neues Auto-Update System",
+    "PC-Transfer-Assistent (5-Schritt-Wizard)",
+    "Backup-Modul mit Auto-Backup alle 30 Min",
+    "GitHub Gist Cloud-Sync",
+    "Erweiterter Bericht (PDF + Word)",
+    "iOS-Kompatibilitaet verbessert"
+  ]
+}
